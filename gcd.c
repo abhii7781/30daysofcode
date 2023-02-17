@@ -20,3 +20,4 @@ int main()
     printf("gcd is %d", b);
     return 0;
 }
+//gcd code
